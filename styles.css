@@ -1,0 +1,36 @@
+body {
+    color: black;
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 5% 5%
+}
+
+.name-Header {
+    border-bottom: 5px solid black;
+}
+
+.edu-Header,
+.work-Header,
+.honors-Header {
+    border-bottom: 1px solid black;
+}
+
+.italics {
+    font-style: italic;
+    font-weight: normal;
+}
+
+.body-text {
+    font-weight: normal;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link-Class:hover {
+    background-color: #990000;
+    color: #FFC72C;
+}
